@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    font-size: larger;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Lucida Sans', sans-serif
+}
+
+img {
+    height: 500px;
+    width: 500px;
+}
+
+.container {
+    background-color: gray;
+}
